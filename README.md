@@ -3,4 +3,4 @@ Simple Calculator with GUI
 
 Steps:
 1) Run the Simple_Calculator.py file.
-2) Enter the numbers in the GUI to be calcuated. Result displayed on the GUI and the console. 
+2) Enter the numbers in the GUI to be calculated. Result would be displayed on GUI and the console. 
